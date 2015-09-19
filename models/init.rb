@@ -1,1 +1,0 @@
-Dir.glob("./{models}/*.rb").each { |file| require file }
